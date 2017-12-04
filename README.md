@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 这个软件有什么用
 
-You can use the [editor on GitHub](https://github.com/iakc/NFXGTool/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+南方稀贵金属交易所行情客户端可以查看白银及各种小金属的行情走势，但是对于某些品种（如氧化铕），早期的品种交易单位与后期的交易单位有所差别，导致查看大级别时K线图及MACD图变形，本软件可以把早期数据交易单位修改到和后期交易单位一致，使走势图便于观看。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 南方稀贵官方网站现已不提供行情客户端下载，你可以在其它下载网站搜索并下载。
 
-### Markdown
+### 修改前行情走势图
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![修改前](https://raw.githubusercontent.com/iakc/NFXGTool/gh-pages/images/before.png)
 
-```markdown
-Syntax highlighted code block
+### 修改后行情走势图
 
-# Header 1
-## Header 2
-### Header 3
+![修改后](https://raw.githubusercontent.com/iakc/NFXGTool/gh-pages/images/after.png)
 
-- Bulleted
-- List
+### 支持我
 
-1. Numbered
-2. List
+如果你感觉本软件有用并愿意支持我，请留下你的感谢。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iakc/NFXGTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![支持我](https://raw.githubusercontent.com/iakc/NFXGTool/gh-pages/images/support.png)
